@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @camel0pardalis
+- 👋 Hi, I’m @camel0pardalis. I go by Ankitha.
 - 👀 I’m interested in learning more about data science.
 - 🌱 I’m currently learning R through a Coursera Data Specialization Course.
 
